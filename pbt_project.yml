@@ -1,6 +1,6 @@
 name: kimberley.cummings
 description: policy
-version: 0.0.1-SNAPSHOT
+version: v1.3.0
 author: z1yfapbl.jvhgjsyk@4fykwyao.com
 language: scala
 buildSystem: ''
@@ -15,8 +15,8 @@ datasets: {}
 templates: {}
 jobs: {}
 gemContainer:
-  languageVersion: ''
-  gemLibsVersion: ''
+  languageVersion: 2.12.15
+  gemLibsVersion: 1.1.26
   gems: {}
   dependencies: null
 functions:
