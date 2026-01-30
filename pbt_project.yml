@@ -1,0 +1,50 @@
+name: kimberley.cummings
+description: policy
+version: 0.0.1-SNAPSHOT
+author: z1yfapbl.jvhgjsyk@4fykwyao.com
+language: scala
+buildSystem: ''
+buildSystemDetails:
+  artefactID: kimberleycummings
+  parentArtefactID: ''
+  buildSystem: maven
+  author: null
+  createdAt: '2026-01-30 16:04:32'
+pipelines: {}
+datasets: {}
+templates: {}
+jobs: {}
+gemContainer:
+  languageVersion: ''
+  gemLibsVersion: ''
+  gems: {}
+  dependencies: null
+functions:
+  author: null
+  createdAt: '2026-01-30 16:04:32'
+  udfs: {}
+  udafs: {}
+  expressions: {}
+  airflowFunctions: {}
+  businessRules: {}
+subgraphs: {}
+sqlModels: {}
+sqlSnapshots: {}
+sqlTests: {}
+sqlMacros: {}
+sqlSeeds: {}
+sqlSources: {}
+sqlUnreferencedSources: {}
+sqlPipeline: null
+dependencies:
+- modifiedAt: '2026-01-30T16:04:32.899755Z'
+  name: plibMaven
+  version: 9.0.0-SNAPSHOT
+  id: '2017144197'
+  createdAt: '2026-01-30T16:04:32.899755Z'
+  type: plibMaven
+projectDependencies: {}
+flags:
+  shouldAddDefaultDependenciesIfAbsent: true
+pipelineConfigurations: {}
+projectConfigurations: {}
